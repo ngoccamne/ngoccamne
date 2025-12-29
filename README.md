@@ -27,6 +27,7 @@
 <img src="./Icons/free_rtos.png"        width="100" height="45"/>
 <a></p>
 
+<h4 align="left">🐍 My Contribution Snake:</h4>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngoccamne/ngoccamne/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngoccamne/ngoccamne/output/github-contribution-grid-snake.svg">
