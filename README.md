@@ -29,5 +29,6 @@
 
 ![Snake animation](https://github.com/ngoccamne/ngoccamne/blob/output/github-contribution-grid-snake.svg)
 
-|<pre><img align="center" width="150" height="150" src="Icons/bku.ico"/><br>University of Technology</pre> <pre><img align="center" width="90" height="93" src="Icons/PIF_Leaf.png"/><br><br>Pay It Forward</pre>|
-|---|---|
+|<pre><img align="center" width="150" height="150" src="Icons/bku.ico"/><br>University of Technology</pre> | <pre><img align="center" width="90" height="93" src="Icons/PIF_Leaf.png"/><br><br>Pay It Forward</pre>|
+| :---: | :---: |
+
