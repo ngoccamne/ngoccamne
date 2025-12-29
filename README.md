@@ -1,10 +1,12 @@
 <div align="center">
+  
 # 👋 Hi, I'm Cam!✨
 *☕ + 🔌 + ✨ = Survival Mode*
 *Fueled by caffeine, driven by curiosity, and probably one bug away from a breakdown.*
-*Just a girl learning to build cool things in an embedded world.🌸*
+*Just a girl learning to build some things in an embedded world.🌸*
+
 </div>
-🎓 I'm studied Electronics and Telecommunications at HCM University of Technology.
+🎓 I'm studying Electronics and Telecommunications at HCM University of Technology.
 
 <h4 align="left">Languages:</h4>
 <p><a target="_blank" rel="noreferrer"> 
