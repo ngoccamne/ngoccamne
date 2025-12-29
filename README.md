@@ -27,7 +27,13 @@
 <img src="./Icons/free_rtos.png"        width="100" height="45"/>
 <a></p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/ngoccamne/ngoccamne/output/github-contribution-grid-snake.svg)
+### 🐍 My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngoccamne/ngoccamne/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngoccamne/ngoccamne/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ngoccamne/ngoccamne/output/github-contribution-grid-snake.svg">
+</picture>
 
 |<pre><img align="center" width="150" height="150" src="Icons/bku.ico"/><br>University of Technology</pre> | <pre><img align="center" width="130" height="133" src="Icons/PIF_Leaf.png"/><br><br>Pay It Forward</pre>|
 | :---: | :---: |
