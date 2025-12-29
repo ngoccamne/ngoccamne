@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm Cam! | Just a girl ✨
 <div align="center">
-☕ + 🔌 + ✨ = Survival Mode
-Fueled by caffeine, driven by curiosity, and probably one bug away from a breakdown.
-Just a girl learning to build cool things in an embedded world.🌸
+# 👋 Hi, I'm Cam!✨
+*☕ + 🔌 + ✨ = Survival Mode*
+*Fueled by caffeine, driven by curiosity, and probably one bug away from a breakdown.*
+*Just a girl learning to build cool things in an embedded world.🌸*
 </div>
 🎓 I'm studied Electronics and Telecommunications at HCM University of Technology.
 
