@@ -1,11 +1,12 @@
 <div align="center">
   
-# 👋 Hi, I'm Cam!✨
+# 👋 Hi, I'm Cam! ✨
 *☕ + 🔌 + ✨ = Survival Mode* <br>
 *Fueled by caffeine, driven by curiosity, and probably one bug away from a breakdown.* <br>
 *Just a girl learning to build some things in an embedded world.🌸*
 
 </div>
+
 🎓 I'm studying Electronics and Telecommunications at HCM University of Technology.
 
 <h4 align="left">Languages:</h4>
