@@ -2,7 +2,6 @@
   
 # 👋 Hi, I'm Cam! ✨
 *☕ + 🔌 + ✨ = Survival Mode* <br>
-*Fueled by caffeine, driven by curiosity, and probably one bug away from a breakdown.* <br>
 *Just a girl learning to build some things in an embedded world.🌸*
 
 </div>
