@@ -8,23 +8,14 @@
 
 🎓 I'm studying Electronics and Telecommunications at HCM University of Technology.
 
-<h4 align="left">Languages:</h4>
+<h4 align="left">Languages and Tools:</h4>
 <p><a target="_blank" rel="noreferrer"> 
-<img src="./Icons/c-original.svg"       width="35" height="35"/></a></p>
-
-<h4 align="left">Tools:</h4>
-<p><a target="_blank" rel="noreferrer">
+<img src="./Icons/c-original.svg"       width="35" height="35"/>
 <img src="./Icons/code.png"             width="35" height="35"/>
 <img src="./Icons/stm32cube.png"        width="35" height="35"/>
 <img src="./Icons/Github.ico"           width="35" height="35"/>
 <img src="./Icons/altium_designer.png"  width="35" height="35"/>
 </a></p>
-
-<h4 align="left">OS:</h4>
-
-<p><a target="_blank" rel="noreferrer">
-<img src="./Icons/free_rtos.png"        width="100" height="45"/>
-<a></p>
 
 <h4 align="left">My Contribution Snake 🐍:</h4>
 <picture>
